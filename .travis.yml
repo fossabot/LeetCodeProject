@@ -1,6 +1,7 @@
 language: cpp
 dist: xenial
 compiler: gcc
+script: make
 matrix:
   include:
     # works on Precise and Trusty
