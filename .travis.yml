@@ -1,6 +1,5 @@
 language: cpp
 dist: xenial
-install: make get-deps
 compiler: gcc
 matrix:
   include:
